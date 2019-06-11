@@ -1,0 +1,8 @@
+hash: e8e5e0394cc47dcb0e0872a91a862546838a3cb395271aa202696cb313de17f7
+updated: 2019-06-11T10:45:48.032435+08:00
+imports:
+- name: github.com/caibirdme/yql
+  version: 2299810551271e2656058c76ced3118cffc05500
+- name: github.com/labstack/echo
+  version: 6b9408d1d1f356a75c9ce61ee708f0d62d686931
+testImports: []

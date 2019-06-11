@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/labstack/echo"
-	"github.com/td_rule_engine/router"
+	"rule/td_rule_engine/router"
 )
 
 func main() {

@@ -1,0 +1,5 @@
+package: rule/td_rule_engine
+import:
+- package: github.com/labstack/echo
+  version: ^4.1.6
+- package: github.com/caibirdme/yql
