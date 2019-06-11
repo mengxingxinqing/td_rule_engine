@@ -2,3 +2,4 @@
 log/*
 .statsd
 vendor/*
+.DS_Store
